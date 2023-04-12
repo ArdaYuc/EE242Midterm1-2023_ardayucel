@@ -1,0 +1,9 @@
+Q1) (10 points)
+arda yucel
+Asciiname= (arda is 097+114+100+097) = 408
+ASciisurname= (yucel is 121+117+99+101+108) = 546
+ASciitotal= 408+546 = 954
+Timernumber= (954%14)+1 = 3
+ARRNUMBER= 65536 = 65535
+Duration= (546%1500)*30 = 16380
+LEDPINNUMBER = (954%4)+12 = 14
